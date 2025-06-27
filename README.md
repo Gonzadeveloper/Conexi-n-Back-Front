@@ -58,7 +58,7 @@ bash
 ### 📁 Estructura del backend
 bash
 
-BackBasico/
+BackBasico/<br>
 ├── models/<br>
 │   └── Name.js            # Modelo Sequelize<br>
 ├── routes/<br>
