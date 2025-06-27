@@ -59,15 +59,13 @@ bash
 bash
 
 BackBasico/
-├── models/
-│   └── Name.js            # Modelo Sequelize
-├── routes/
-│   └── names.js           # Endpoints REST
-├── database.js            # Configuración Sequelize
-├── index.js               # Entrada principal del servidor
-└── .env                   # Variables de entorno
-📸 Vista previa (opcional)
-<!-- Agrega una captura o GIF si lo deseas -->
+├── models/<br>
+│   └── Name.js            # Modelo Sequelize<br>
+├── routes/<br>
+│   └── names.js           # Endpoints REST<br>
+├── database.js            # Configuración Sequelize<br>
+├── index.js               # Entrada principal del servidor<br>
+└── .env                   # Variables de entorno<br>
 
 ### 🧠 Aprendizajes
 - ✔️ Conexión full stack completa (React + Node + DB)
